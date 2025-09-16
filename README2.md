@@ -54,9 +54,10 @@ L’application permet d’explorer les îlots de fraîcheur de Paris grâce aux
 
 2. Installer les dépendances : 
   ```bash
-  npm install
+npm install
+npm run dev 
 
-
-
-
+3.Lancer le site en local : 
+'''bash
+http://localhost:5173/
 
