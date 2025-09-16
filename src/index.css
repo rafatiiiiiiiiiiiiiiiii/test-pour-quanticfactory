@@ -1,0 +1,29 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fallback simple: on force juste le fond global en noir.
+   PAS de @apply ici pour ne pas casser tes couleurs locales. */
+body {
+  margin: 0;
+  background-color: #c59fee /* fond noir partout */
+ 
+}
+
+@font-face {
+  font-family: "Nexa";
+  src: url("./assets/fonts/Nexa-Heavy.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nexa";
+  src: url("./assets/fonts/Nexa-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+
+h1, h2, h3 {
+  font-family: "Nexa", sans-serif;
+}
