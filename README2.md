@@ -51,3 +51,12 @@ L’application permet d’explorer les îlots de fraîcheur de Paris grâce aux
    ```bash
    git clone https://github.com/rafatiiiiiiiiiiiiiiiii/test-pour-quanticfactory/
    cd test-pour-quanticfactory
+
+2. Installer les dépendances : 
+  ```bash
+  npm install
+
+
+
+
+
