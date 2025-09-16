@@ -50,4 +50,4 @@ L’application permet d’explorer les îlots de fraîcheur de Paris grâce aux
 1. Cloner le dépôt :
    ```bash
    git clone https://github.com/rafatiiiiiiiiiiiiiiiii/test-pour-quanticfactory/
-   cd ilot-fraicheur-paris
+   cd test-pour-quanticfactory
